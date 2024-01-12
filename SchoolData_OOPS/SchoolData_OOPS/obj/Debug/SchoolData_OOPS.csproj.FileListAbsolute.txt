@@ -1,0 +1,7 @@
+D:\Projects\Project OOP\SchoolData_OOPS\SchoolData_OOPS\bin\Debug\SchoolData_OOPS.exe.config
+D:\Projects\Project OOP\SchoolData_OOPS\SchoolData_OOPS\bin\Debug\SchoolData_OOPS.exe
+D:\Projects\Project OOP\SchoolData_OOPS\SchoolData_OOPS\bin\Debug\SchoolData_OOPS.pdb
+D:\Projects\Project OOP\SchoolData_OOPS\SchoolData_OOPS\obj\Debug\SchoolData_OOPS.csproj.AssemblyReference.cache
+D:\Projects\Project OOP\SchoolData_OOPS\SchoolData_OOPS\obj\Debug\SchoolData_OOPS.csproj.CoreCompileInputs.cache
+D:\Projects\Project OOP\SchoolData_OOPS\SchoolData_OOPS\obj\Debug\SchoolData_OOPS.exe
+D:\Projects\Project OOP\SchoolData_OOPS\SchoolData_OOPS\obj\Debug\SchoolData_OOPS.pdb
